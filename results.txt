@@ -1,0 +1,196 @@
+Afghanistan; 93; Kabul; Asia; Southern Asia; 27657145; 652230.0; [IRN; PAK; TKM; UZB; TJK; CHN]; Afghan afghani; Pashto
+Albania; 355; Tirana; Europe; Southern Europe; 2886026; 28748.0; [MNE; GRC; MKD; KOS]; Albanian lek; Albanian
+Algeria; 213; Algiers; Africa; Northern Africa; 40400000; 2381741.0; [TUN; LBY; NER; ESH; MRT; MLI; MAR]; Algerian dinar; Arabic
+Andorra; 376; Andorra la Vella; Europe; Southern Europe; 78014; 468.0; [FRA; ESP]; Euro; Catalan
+Angola; 244; Luanda; Africa; Middle Africa; 25868000; 1246700.0; [COG; COD; ZMB; NAM]; Angolan kwanza; Portuguese
+Antigua and Barbuda; 1268; Saint John's; Americas; Caribbean; 86295; 442.0; []; East Caribbean dollar; English
+Argentina; 54; Buenos Aires; Americas; South America; 43590400; 2780400.0; [BOL; BRA; CHL; PRY; URY]; Argentine peso; Spanish
+Armenia; 374; Yerevan; Asia; Western Asia; 2994400; 29743.0; [AZE; GEO; IRN; TUR]; Armenian dram; Armenian
+Australia; 61; Canberra; Oceania; Australia and New Zealand; 24117360; 7692024.0; []; Australian dollar; English
+Austria; 43; Vienna; Europe; Western Europe; 8725931; 83871.0; [CZE; DEU; HUN; ITA; LIE; SVK; SVN; CHE]; Euro; German
+Azerbaijan; 994; Baku; Asia; Western Asia; 9730500; 86600.0; [ARM; GEO; IRN; RUS; TUR]; Azerbaijani manat; Azerbaijani
+Bahamas; 1242; Nassau; Americas; Caribbean; 378040; 13943.0; []; Bahamian dollar; English
+Bahrain; 973; Manama; Asia; Western Asia; 1404900; 765.0; []; Bahraini dinar; Arabic
+Bangladesh; 880; Dhaka; Asia; Southern Asia; 161006790; 147570.0; [MMR; IND]; Bangladeshi taka; Bengali
+Barbados; 1246; Bridgetown; Americas; Caribbean; 285000; 430.0; []; Barbadian dollar; English
+Belarus; 375; Minsk; Europe; Eastern Europe; 9498700; 207600.0; [LVA; LTU; POL; RUS; UKR]; New Belarusian ruble; Belarusian
+Belgium; 32; Brussels; Europe; Western Europe; 11319511; 30528.0; [FRA; DEU; LUX; NLD]; Euro; Dutch
+Belize; 501; Belmopan; Americas; Central America; 370300; 22966.0; [GTM; MEX]; Belize dollar; English
+Benin; 229; Porto-Novo; Africa; Western Africa; 10653654; 112622.0; [BFA; NER; NGA; TGO]; West African CFA franc; French
+Bhutan; 975; Thimphu; Asia; Southern Asia; 775620; 38394.0; [CHN; IND]; Bhutanese ngultrum; Dzongkha
+Bolivia (Plurinational State of); 591; Sucre; Americas; South America; 10985059; 1098581.0; [ARG; BRA; CHL; PRY; PER]; Bolivian boliviano; Spanish
+Bosnia and Herzegovina; 387; Sarajevo; Europe; Southern Europe; 3531159; 51209.0; [HRV; MNE; SRB]; Bosnia and Herzegovina convertible mark; Bosnian
+Botswana; 267; Gaborone; Africa; Southern Africa; 2141206; 582000.0; [NAM; ZAF; ZMB; ZWE]; Botswana pula; English
+Brazil; 55; Brasília; Americas; South America; 206135893; 8515767.0; [ARG; BOL; COL; GUF; GUY; PRY; PER; SUR; URY; VEN]; Brazilian real; Portuguese
+Brunei Darussalam; 673; Bandar Seri Begawan; Asia; South-Eastern Asia; 411900; 5765.0; [MYS]; Brunei dollar; Malay
+Bulgaria; 359; Sofia; Europe; Eastern Europe; 7153784; 110879.0; [GRC; MKD; ROU; SRB; TUR]; Bulgarian lev; Bulgarian
+Burkina Faso; 226; Ouagadougou; Africa; Western Africa; 19034397; 272967.0; [BEN; CIV; GHA; MLI; NER; TGO]; West African CFA franc; French
+Burundi; 257; Bujumbura; Africa; Eastern Africa; 10114505; 27834.0; [COD; RWA; TZA]; Burundian franc; French
+Cambodia; 855; Phnom Penh; Asia; South-Eastern Asia; 15626444; 181035.0; [LAO; THA; VNM]; Cambodian riel; Khmer
+Cameroon; 237; Yaoundé; Africa; Middle Africa; 22709892; 475442.0; [CAF; TCD; COG; GNQ; GAB; NGA]; Central African CFA franc; English
+Canada; 1; Ottawa; Americas; Northern America; 36155487; 9984670.0; [USA]; Canadian dollar; English
+Cabo Verde; 238; Praia; Africa; Western Africa; 531239; 4033.0; []; Cape Verdean escudo; Portuguese
+Central African Republic; 236; Bangui; Africa; Middle Africa; 4998000; 622984.0; [CMR; TCD; COD; COG; SSD; SDN]; Central African CFA franc; French
+Chad; 235; N'Djamena; Africa; Middle Africa; 14497000; 1284000.0; [CMR; CAF; LBY; NER; NGA; SSD]; Central African CFA franc; French
+Chile; 56; Santiago; Americas; South America; 18191900; 756102.0; [ARG; BOL; PER]; Chilean peso; Spanish
+China; 86; Beijing; Asia; Eastern Asia; 1377422166; 9640011.0; [AFG; BTN; MMR; HKG; IND; KAZ; PRK; KGZ; LAO; MAC; MNG; PAK; RUS; TJK; VNM]; Chinese yuan; Chinese
+Colombia; 57; Bogotá; Americas; South America; 48759958; 1141748.0; [BRA; ECU; PAN; PER; VEN]; Colombian peso; Spanish
+Comoros; 269; Moroni; Africa; Eastern Africa; 806153; 1862.0; []; Comorian franc; Arabic
+Congo; 242; Brazzaville; Africa; Middle Africa; 4741000; 342000.0; [AGO; CMR; CAF; COD; GAB]; Central African CFA franc; French
+Congo (Democratic Republic of the); 243; Kinshasa; Africa; Middle Africa; 85026000; 2344858.0; [AGO; BDI; CAF; COG; RWA; SSD; TZA; UGA; ZMB]; Congolese franc; French
+Costa Rica; 506; San José; Americas; Central America; 4890379; 51100.0; [NIC; PAN]; Costa Rican colón; Spanish
+Côte d'Ivoire; 225; Yamoussoukro; Africa; Western Africa; 22671331; 322463.0; [BFA; GHA; GIN; LBR; MLI]; West African CFA franc; French
+Croatia; 385; Zagreb; Europe; Southern Europe; 4190669; 56594.0; [BIH; HUN; MNE; SRB; SVN]; Croatian kuna; Croatian
+Cuba; 53; Havana; Americas; Caribbean; 11239004; 109884.0; []; Cuban convertible peso; Spanish
+Cyprus; 357; Nicosia; Europe; Southern Europe; 847000; 9251.0; [GBR]; Euro; Greek (modern)
+Czech Republic; 420; Prague; Europe; Eastern Europe; 10558524; 78865.0; [AUT; DEU; POL; SVK]; Czech koruna; Czech
+Denmark; 45; Copenhagen; Europe; Northern Europe; 5717014; 43094.0; [DEU]; Danish krone; Danish
+Djibouti; 253; Djibouti; Africa; Eastern Africa; 900000; 23200.0; [ERI; ETH; SOM]; Djiboutian franc; French
+Dominica; 1767; Roseau; Americas; Caribbean; 71293; 751.0; []; East Caribbean dollar; English
+Dominican Republic; 1809; Santo Domingo; Americas; Caribbean; 10075045; 48671.0; [HTI]; Dominican peso; Spanish
+Ecuador; 593; Quito; Americas; South America; 16545799; 276841.0; [COL; PER]; United States dollar; Spanish
+Egypt; 20; Cairo; Africa; Northern Africa; 91290000; 1002450.0; [ISR; LBY; SDN]; Egyptian pound; Arabic
+El Salvador; 503; San Salvador; Americas; Central America; 6520675; 21041.0; [GTM; HND]; United States dollar; Spanish
+Equatorial Guinea; 240; Malabo; Africa; Middle Africa; 1222442; 28051.0; [CMR; GAB]; Central African CFA franc; Spanish
+Eritrea; 291; Asmara; Africa; Eastern Africa; 5352000; 117600.0; [DJI; ETH; SDN]; Eritrean nakfa; Tigrinya
+Estonia; 372; Tallinn; Europe; Northern Europe; 1315944; 45227.0; [LVA; RUS]; Euro; Estonian
+Ethiopia; 251; Addis Ababa; Africa; Eastern Africa; 92206005; 1104300.0; [DJI; ERI; KEN; SOM; SSD; SDN]; Ethiopian birr; Amharic
+Fiji; 679; Suva; Oceania; Melanesia; 867000; 18272.0; []; Fijian dollar; English
+Finland; 358; Helsinki; Europe; Northern Europe; 5491817; 338424.0; [NOR; SWE; RUS]; Euro; Finnish
+France; 33; Paris; Europe; Western Europe; 66710000; 640679.0; [AND; BEL; DEU; ITA; LUX; MCO; ESP; CHE]; Euro; French
+Gabon; 241; Libreville; Africa; Middle Africa; 1802278; 267668.0; [CMR; COG; GNQ]; Central African CFA franc; French
+Gambia; 220; Banjul; Africa; Western Africa; 1882450; 11295.0; [SEN]; Gambian dalasi; English
+Georgia; 995; Tbilisi; Asia; Western Asia; 3720400; 69700.0; [ARM; AZE; RUS; TUR]; Georgian Lari; Georgian
+Germany; 49; Berlin; Europe; Western Europe; 81770900; 357114.0; [AUT; BEL; CZE; DNK; FRA; LUX; NLD; POL; CHE]; Euro; German
+Ghana; 233; Accra; Africa; Western Africa; 27670174; 238533.0; [BFA; CIV; TGO]; Ghanaian cedi; English
+Greece; 30; Athens; Europe; Southern Europe; 10858018; 131990.0; [ALB; BGR; TUR; MKD]; Euro; Greek (modern)
+Grenada; 1473; St. George's; Americas; Caribbean; 103328; 344.0; []; East Caribbean dollar; English
+Guatemala; 502; Guatemala City; Americas; Central America; 16176133; 108889.0; [BLZ; SLV; HND; MEX]; Guatemalan quetzal; Spanish
+Guinea; 224; Conakry; Africa; Western Africa; 12947000; 245857.0; [CIV; GNB; LBR; MLI; SEN; SLE]; Guinean franc; French
+Guinea-Bissau; 245; Bissau; Africa; Western Africa; 1547777; 36125.0; [GIN; SEN]; West African CFA franc; Portuguese
+Guyana; 592; Georgetown; Americas; South America; 746900; 214969.0; [BRA; SUR; VEN]; Guyanese dollar; English
+Haiti; 509; Port-au-Prince; Americas; Caribbean; 11078033; 27750.0; [DOM]; Haitian gourde; French
+Holy See; 379; Rome; Europe; Southern Europe; 451; 0.44; [ITA]; Euro; Latin
+Honduras; 504; Tegucigalpa; Americas; Central America; 8576532; 112492.0; [GTM; SLV; NIC]; Honduran lempira; Spanish
+Hong Kong; 852; City of Victoria; Asia; Eastern Asia; 7324300; 1104.0; [CHN]; Hong Kong dollar; English
+Hungary; 36; Budapest; Europe; Eastern Europe; 9823000; 93028.0; [AUT; HRV; ROU; SRB; SVK; SVN; UKR]; Hungarian forint; Hungarian
+Iceland; 354; Reykjavík; Europe; Northern Europe; 334300; 103000.0; []; Icelandic króna; Icelandic
+India; 91; New Delhi; Asia; Southern Asia; 1295210000; 3287590.0; [AFG; BGD; BTN; MMR; CHN; NPL; PAK; LKA]; Indian rupee; Hindi
+Indonesia; 62; Jakarta; Asia; South-Eastern Asia; 258705000; 1904569.0; [TLS; MYS; PNG]; Indonesian rupiah; Indonesian
+Iran (Islamic Republic of); 98; Tehran; Asia; Southern Asia; 79369900; 1648195.0; [AFG; ARM; AZE; IRQ; PAK; TUR; TKM]; Iranian rial; Persian (Farsi)
+Iraq; 964; Baghdad; Asia; Western Asia; 37883543; 438317.0; [IRN; JOR; KWT; SAU; SYR; TUR]; Iraqi dinar; Arabic
+Ireland; 353; Dublin; Europe; Northern Europe; 6378000; 70273.0; [GBR]; Euro; Irish
+Israel; 972; Jerusalem; Asia; Western Asia; 8527400; 20770.0; [EGY; JOR; LBN; SYR]; Israeli new shekel; Hebrew (modern)
+Italy; 39; Rome; Europe; Southern Europe; 60665551; 301336.0; [AUT; FRA; SMR; SVN; CHE; VAT]; Euro; Italian
+Jamaica; 1876; Kingston; Americas; Caribbean; 2723246; 10991.0; []; Jamaican dollar; English
+Japan; 81; Tokyo; Asia; Eastern Asia; 126960000; 377930.0; []; Japanese yen; Japanese
+Jordan; 962; Amman; Asia; Western Asia; 9531712; 89342.0; [IRQ; ISR; SAU; SYR]; Jordanian dinar; Arabic
+Kazakhstan; 76; Astana; Asia; Central Asia; 17753200; 2724900.0; [CHN; KGZ; RUS; TKM; UZB]; Kazakhstani tenge; Kazakh
+Kenya; 254; Nairobi; Africa; Eastern Africa; 47251000; 580367.0; [ETH; SOM; SSD; TZA; UGA]; Kenyan shilling; English
+Kiribati; 686; South Tarawa; Oceania; Micronesia; 113400; 811.0; []; Australian dollar; English
+Korea (Democratic People's Republic of); 850; Pyongyang; Asia; Eastern Asia; 25281000; 120538.0; [CHN; KOR; RUS]; North Korean won; Korean
+Korea (Republic of); 82; Seoul; Asia; Eastern Asia; 50801405; 100210.0; [PRK]; South Korean won; Korean
+Kuwait; 965; Kuwait City; Asia; Western Asia; 4183658; 17818.0; [IRN; SAU]; Kuwaiti dinar; Arabic
+Kyrgyzstan; 996; Bishkek; Asia; Central Asia; 6047800; 199951.0; [CHN; KAZ; TJK; UZB]; Kyrgyzstani som; Kyrgyz
+Lao People's Democratic Republic; 856; Vientiane; Asia; South-Eastern Asia; 6492400; 236800.0; [MMR; KHM; CHN; THA; VNM]; Lao kip; Lao
+Latvia; 371; Riga; Europe; Northern Europe; 1961600; 64559.0; [BLR; EST; LTU; RUS]; Euro; Latvian
+Lebanon; 961; Beirut; Asia; Western Asia; 5988000; 10452.0; [ISR; SYR]; Lebanese pound; Arabic
+Lesotho; 266; Maseru; Africa; Southern Africa; 1894194; 30355.0; [ZAF]; Lesotho loti; English
+Liberia; 231; Monrovia; Africa; Western Africa; 4615000; 111369.0; [GIN; CIV; SLE]; Liberian dollar; English
+Liechtenstein; 423; Vaduz; Europe; Western Europe; 37623; 160.0; [AUT; CHE]; Swiss franc; German
+Lithuania; 370; Vilnius; Europe; Northern Europe; 2872294; 65300.0; [BLR; LVA; POL; RUS]; Euro; Lithuanian
+Luxembourg; 352; Luxembourg; Europe; Western Europe; 576200; 2586.0; [BEL; FRA; DEU]; Euro; French
+Macedonia (the former Yugoslav Republic of); 389; Skopje; Europe; Southern Europe; 2058539; 25713.0; [ALB; BGR; GRC; KOS; SRB]; Macedonian denar; Macedonian
+Madagascar; 261; Antananarivo; Africa; Eastern Africa; 22434363; 587041.0; []; Malagasy ariary; French
+Malawi; 265; Lilongwe; Africa; Eastern Africa; 16832910; 118484.0; [MOZ; TZA; ZMB]; Malawian kwacha; English
+Malaysia; 60; Kuala Lumpur; Asia; South-Eastern Asia; 31405416; 330803.0; [BRN; IDN; THA]; Malaysian ringgit; Malaysian
+Maldives; 960; Malé; Asia; Southern Asia; 344023; 300.0; []; Maldivian rufiyaa; Divehi
+Mali; 223; Bamako; Africa; Western Africa; 18135000; 1240192.0; [DZA; BFA; GIN; CIV; MRT; NER; SEN]; West African CFA franc; French
+Malta; 356; Valletta; Europe; Southern Europe; 425384; 316.0; []; Euro; Maltese
+Marshall Islands; 692; Majuro; Oceania; Micronesia; 54880; 181.0; []; United States dollar; English
+Mauritania; 222; Nouakchott; Africa; Western Africa; 3718678; 1030700.0; [DZA; MLI; SEN; ESH]; Mauritanian ouguiya; Arabic
+Mauritius; 230; Port Louis; Africa; Eastern Africa; 1262879; 2040.0; []; Mauritian rupee; English
+Mexico; 52; Mexico City; Americas; Central America; 122273473; 1964375.0; [BLZ; GTM; USA]; Mexican peso; Spanish
+Micronesia (Federated States of); 691; Palikir; Oceania; Micronesia; 102800; 702.0; []; [D]; English
+Moldova (Republic of); 373; MDA; Europe; Eastern Europe; 3553100; 33846.0; [ROU; UKR]; Moldovan leu; Romanian
+Monaco; 377; Monaco; Europe; Western Europe; 38400; 2.02; [FRA]; Euro; French
+Mongolia; 976; Ulan Bator; Asia; Eastern Asia; 3093100; 1564110.0; [CHN; RUS]; Mongolian tögrög; Mongolian
+Montenegro; 382; Podgorica; Europe; Southern Europe; 621810; 13812.0; [ALB; BIH; HRV; KOS; SRB]; Euro; Serbian
+Morocco; 212; Rabat; Africa; Northern Africa; 33337529; 446550.0; [DZA; ESH; ESP]; Moroccan dirham; Arabic
+Mozambique; 258; Maputo; Africa; Eastern Africa; 26423700; 801590.0; [MWI; ZAF; SWZ; TZA; ZMB; ZWE]; Mozambican metical; Portuguese
+Myanmar; 95; Naypyidaw; Asia; South-Eastern Asia; 51419420; 676578.0; [BGD; CHN; IND; LAO; THA]; Burmese kyat; Burmese
+Namibia; 264; Windhoek; Africa; Southern Africa; 2324388; 825615.0; [AGO; BWA; ZAF; ZMB]; Namibian dollar; English
+Nepal; 977; Kathmandu; Asia; Southern Asia; 28431500; 147181.0; [CHN; IND]; Nepalese rupee; Nepali
+Netherlands; 31; Amsterdam; Europe; Western Europe; 17019800; 41850.0; [BEL; DEU]; Euro; Dutch
+New Zealand; 64; Wellington; Oceania; Australia and New Zealand; 4697854; 270467.0; []; New Zealand dollar; English
+Nicaragua; 505; Managua; Americas; Central America; 6262703; 130373.0; [CRI; HND]; Nicaraguan córdoba; Spanish
+Niger; 227; Niamey; Africa; Western Africa; 20715000; 1267000.0; [DZA; BEN; BFA; TCD; LBY; MLI; NGA]; West African CFA franc; French
+Nigeria; 234; Abuja; Africa; Western Africa; 186988000; 923768.0; [BEN; CMR; TCD; NER]; Nigerian naira; English
+Norway; 47; Oslo; Europe; Northern Europe; 5223256; 323802.0; [FIN; SWE; RUS]; Norwegian krone; Norwegian
+Oman; 968; Muscat; Asia; Western Asia; 4420133; 309500.0; [SAU; ARE; YEM]; Omani rial; Arabic
+Pakistan; 92; Islamabad; Asia; Southern Asia; 194125062; 881912.0; [AFG; CHN; IND; IRN]; Pakistani rupee; English
+Palau; 680; Ngerulmud; Oceania; Micronesia; 17950; 459.0; []; [E]; English
+Palestine, State of; 970; Ramallah; Asia; Western Asia; 4682467; None; [ISR; EGY; JOR]; Israeli new sheqel; Arabic
+Panama; 507; Panama City; Americas; Central America; 3814672; 75417.0; [COL; CRI]; Panamanian balboa; Spanish
+Papua New Guinea; 675; Port Moresby; Oceania; Melanesia; 8083700; 462840.0; [IDN]; Papua New Guinean kina; English
+Paraguay; 595; Asunción; Americas; South America; 6854536; 406752.0; [ARG; BOL; BRA]; Paraguayan guaraní; Spanish
+Peru; 51; Lima; Americas; South America; 31488700; 1285216.0; [BOL; BRA; CHL; COL; ECU]; Peruvian sol; Spanish
+Philippines; 63; Manila; Asia; South-Eastern Asia; 103279800; 342353.0; []; Philippine peso; English
+Poland; 48; Warsaw; Europe; Eastern Europe; 38437239; 312679.0; [BLR; CZE; DEU; LTU; RUS; SVK; UKR]; unknown; Polish
+Portugal; 351; Lisbon; Europe; Southern Europe; 10374822; 92090.0; [ESP]; Euro; Portuguese
+Puerto Rico; 1787; San Juan; Americas; Caribbean; 3474182; 8870.0; []; United States dollar; Spanish
+Qatar; 974; Doha; Asia; Western Asia; 2587564; 11586.0; [SAU]; Qatari riyal; Arabic
+Serbia; 381; Belgrade; Europe; Southern Europe; 7076372; 88361.0; [BIH; BGR; HRV; HUN; KOS; MKD; MNE; ROU]; Serbian dinar; Serbian
+Romania; 40; Bucharest; Europe; Eastern Europe; 19861408; 238391.0; [BGR; HUN; MDA; SRB; UKR]; Romanian leu; Romanian
+Russian Federation; 7; Moscow; Europe; Eastern Europe; 146599183; 17124442.0; [AZE; BLR; CHN; EST; FIN; GEO; KAZ; PRK; LVA; LTU; MNG; NOR; POL; UKR]; Russian ruble; Russian
+Rwanda; 250; Kigali; Africa; Eastern Africa; 11553188; 26338.0; [BDI; COD; TZA; UGA]; Rwandan franc; Kinyarwanda
+Saint Kitts and Nevis; 1869; Basseterre; Americas; Caribbean; 46204; 261.0; []; East Caribbean dollar; English
+Saint Lucia; 1758; Castries; Americas; Caribbean; 186000; 616.0; []; East Caribbean dollar; English
+Saint Vincent and the Grenadines; 1784; Kingstown; Americas; Caribbean; 109991; 389.0; []; East Caribbean dollar; English
+Samoa; 685; Apia; Oceania; Polynesia; 194899; 2842.0; []; unknown; Samoan
+San Marino; 378; City of San Marino; Europe; Southern Europe; 33005; 61.0; [ITA]; Euro; Italian
+Sao Tome and Principe; 239; São Tomé; Africa; Middle Africa; 187356; 964.0; []; São Tomé and Príncipe dobra; Portuguese
+Saudi Arabia; 966; Riyadh; Asia; Western Asia; 32248200; 2149690.0; [IRQ; JOR; KWT; OMN; QAT; ARE; YEM]; Saudi riyal; Arabic
+Senegal; 221; Dakar; Africa; Western Africa; 14799859; 196722.0; [GMB; GIN; GNB; MLI; MRT]; West African CFA franc; French
+Seychelles; 248; Victoria; Africa; Eastern Africa; 91400; 452.0; []; Seychellois rupee; French
+Sierra Leone; 232; Freetown; Africa; Western Africa; 7075641; 71740.0; [GIN; LBR]; Sierra Leonean leone; English
+Singapore; 65; Singapore; Asia; South-Eastern Asia; 5535000; 710.0; []; Brunei dollar; English
+Slovakia; 421; Bratislava; Europe; Eastern Europe; 5426252; 49037.0; [AUT; CZE; HUN; POL; UKR]; Euro; Slovak
+Slovenia; 386; Ljubljana; Europe; Southern Europe; 2064188; 20273.0; [AUT; HRV; ITA; HUN]; Euro; Slovene
+Solomon Islands; 677; Honiara; Oceania; Melanesia; 642000; 28896.0; []; Solomon Islands dollar; English
+Somalia; 252; Mogadishu; Africa; Eastern Africa; 11079000; 637657.0; [DJI; ETH; KEN]; Somali shilling; Somali
+South Africa; 27; Pretoria; Africa; Southern Africa; 55653654; 1221037.0; [BWA; LSO; MOZ; NAM; SWZ; ZWE]; South African rand; Afrikaans
+South Sudan; 211; Juba; Africa; Middle Africa; 12131000; 619745.0; [CAF; COD; ETH; KEN; SDN; UGA]; South Sudanese pound; English
+Spain; 34; Madrid; Europe; Southern Europe; 46438422; 505992.0; [AND; FRA; GIB; PRT; MAR]; Euro; Spanish
+Sri Lanka; 94; Colombo; Asia; Southern Asia; 20966000; 65610.0; [IND]; Sri Lankan rupee; Sinhalese
+Sudan; 249; Khartoum; Africa; Northern Africa; 39598700; 1886068.0; [CAF; TCD; EGY; ERI; ETH; LBY; SSD]; Sudanese pound; Arabic
+Suriname; 597; Paramaribo; Americas; South America; 541638; 163820.0; [BRA; GUF; FRA; GUY]; Surinamese dollar; Dutch
+Swaziland; 268; Lobamba; Africa; Southern Africa; 1132657; 17364.0; [MOZ; ZAF]; Swazi lilangeni; English
+Sweden; 46; Stockholm; Europe; Northern Europe; 9894888; 450295.0; [FIN; NOR]; Swedish krona; Swedish
+Switzerland; 41; Bern; Europe; Western Europe; 8341600; 41284.0; [AUT; FRA; ITA; LIE; DEU]; Swiss franc; German
+Syrian Arab Republic; 963; Damascus; Asia; Western Asia; 18564000; 185180.0; [IRQ; ISR; JOR; LBN; TUR]; Syrian pound; Arabic
+Taiwan; 886; Taipei; Asia; Eastern Asia; 23503349; 36193.0; []; New Taiwan dollar; Chinese
+Tajikistan; 992; Dushanbe; Asia; Central Asia; 8593600; 143100.0; [AFG; CHN; KGZ; UZB]; Tajikistani somoni; Tajik
+Tanzania, United Republic of; 255; Dodoma; Africa; Eastern Africa; 55155000; 945087.0; [BDI; COD; KEN; MWI; MOZ; RWA; UGA; ZMB]; Tanzanian shilling; Swahili
+Thailand; 66; Bangkok; Asia; South-Eastern Asia; 65327652; 513120.0; [MMR; KHM; LAO; MYS]; Thai baht; Thai
+Timor-Leste; 670; Dili; Asia; South-Eastern Asia; 1167242; 14874.0; [IDN]; United States dollar; Portuguese
+Togo; 228; Lomé; Africa; Western Africa; 7143000; 56785.0; [BEN; BFA; GHA]; West African CFA franc; French
+Tonga; 676; Nuku'alofa; Oceania; Polynesia; 103252; 747.0; []; unknown; English
+Trinidad and Tobago; 1868; Port of Spain; Americas; Caribbean; 1349667; 5130.0; []; Trinidad and Tobago dollar; English
+Tunisia; 216; Tunis; Africa; Northern Africa; 11154400; 163610.0; [DZA; LBY]; Tunisian dinar; Arabic
+Turkey; 90; Ankara; Asia; Western Asia; 78741053; 783562.0; [ARM; AZE; BGR; GEO; GRC; IRN; IRQ; SYR]; Turkish lira; Turkish
+Tuvalu; 688; Funafuti; Oceania; Polynesia; 10640; 26.0; []; Australian dollar; English
+Uganda; 256; Kampala; Africa; Eastern Africa; 33860700; 241550.0; [COD; KEN; RWA; SSD; TZA]; Ugandan shilling; English
+Ukraine; 380; Kiev; Europe; Eastern Europe; 42692393; 603700.0; [BLR; HUN; MDA; POL; ROU; RUS; SVK]; Ukrainian hryvnia; Ukrainian
+United Arab Emirates; 971; Abu Dhabi; Asia; Western Asia; 9856000; 83600.0; [OMN; SAU]; United Arab Emirates dirham; Arabic
+United Kingdom of Great Britain and Northern Ireland; 44; London; Europe; Northern Europe; 65110000; 242900.0; [IRL]; British pound; English
+United States of America; 1; Washington, D.C.; Americas; Northern America; 323947000; 9629091.0; [CAN; MEX]; United States dollar; English
+Turkmenistan; 993; Ashgabat; Asia; Central Asia; 4751120; 488100.0; [AFG; IRN; KAZ; UZB]; Turkmenistan manat; Turkmen
+Uruguay; 598; Montevideo; Americas; South America; 3480222; 181034.0; [ARG; BRA]; Uruguayan peso; Spanish
+Uzbekistan; 998; Tashkent; Asia; Central Asia; 31576400; 447400.0; [AFG; KAZ; KGZ; TJK; TKM]; Uzbekistani so'm; Uzbek
+Vanuatu; 678; Port Vila; Oceania; Melanesia; 277500; 12189.0; []; Vanuatu vatu; Bislama
+Venezuela (Bolivarian Republic of); 58; Caracas; Americas; South America; 31028700; 916445.0; [BRA; COL; GUY]; Venezuelan bolívar; Spanish
+Viet Nam; 84; Hanoi; Asia; South-Eastern Asia; 92700000; 331212.0; [KHM; CHN; LAO]; unknown; Vietnamese
+Yemen; 967; Sana'a; Asia; Western Asia; 27478000; 527968.0; [OMN; SAU]; Yemeni rial; Arabic
+Zambia; 260; Lusaka; Africa; Eastern Africa; 15933883; 752612.0; [AGO; BWA; COD; MWI; MOZ; NAM; TZA; ZWE]; Zambian kwacha; English
+Zimbabwe; 263; Harare; Africa; Eastern Africa; 14240168; 390757.0; [BWA; MOZ; ZAF; ZMB]; Botswana pula; English
