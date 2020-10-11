@@ -1,0 +1,4 @@
+.root {
+    -fx-background-image:url('box_only.jpg');
+    -fx-background-size:cover;
+}
